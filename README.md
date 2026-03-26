@@ -1,0 +1,1 @@
+This project analyzes an IMDb-style movie dataset using PostgreSQL and advanced SQL techniques. It explores insights on genres, ratings, actors, directors, and production companies through joins, aggregations, and window functions. The project also focuses on handling real-world messy data and optimizing query performance.
